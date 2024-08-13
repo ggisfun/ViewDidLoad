@@ -9,21 +9,35 @@
 /* Begin PBXBuildFile section */
 		476B01F02C6AE2C2004C3246 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 476B01EF2C6AE2C2004C3246 /* AppDelegate.swift */; };
 		476B01F22C6AE2C2004C3246 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 476B01F12C6AE2C2004C3246 /* SceneDelegate.swift */; };
-		476B01F42C6AE2C2004C3246 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 476B01F32C6AE2C2004C3246 /* ViewController.swift */; };
 		476B01F72C6AE2C2004C3246 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 476B01F62C6AE2C2004C3246 /* Base */; };
 		476B01F92C6AE2C3004C3246 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 476B01F82C6AE2C3004C3246 /* Assets.xcassets */; };
 		476B01FC2C6AE2C3004C3246 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 476B01FB2C6AE2C3004C3246 /* Base */; };
+		476B02042C6AE4D8004C3246 /* MickeyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 476B02032C6AE4D8004C3246 /* MickeyViewController.swift */; };
+		476B02062C6AF192004C3246 /* bgm01.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 476B02052C6AF192004C3246 /* bgm01.mp3 */; };
+		476B02082C6AF1A8004C3246 /* bgm02.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 476B02072C6AF1A8004C3246 /* bgm02.mp3 */; };
+		476B020A2C6AF1B5004C3246 /* shooting.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 476B02092C6AF1B5004C3246 /* shooting.mp3 */; };
+		476B020C2C6AF1C1004C3246 /* thunder.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 476B020B2C6AF1C1004C3246 /* thunder.mp3 */; };
+		476B020E2C6AF3C8004C3246 /* RainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 476B020D2C6AF3C8004C3246 /* RainViewController.swift */; };
+		476B02122C6AFF5F004C3246 /* zombie.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 476B02112C6AFF5F004C3246 /* zombie.mp3 */; };
+		476B02142C6B0DCB004C3246 /* MonsterBlood-VGKYz.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 476B02132C6B0DCB004C3246 /* MonsterBlood-VGKYz.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		476B01EC2C6AE2C2004C3246 /* ViewDidLoad.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ViewDidLoad.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		476B01EF2C6AE2C2004C3246 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		476B01F12C6AE2C2004C3246 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		476B01F32C6AE2C2004C3246 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		476B01F62C6AE2C2004C3246 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		476B01F82C6AE2C3004C3246 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		476B01FB2C6AE2C3004C3246 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		476B01FD2C6AE2C3004C3246 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		476B02032C6AE4D8004C3246 /* MickeyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MickeyViewController.swift; sourceTree = "<group>"; };
+		476B02052C6AF192004C3246 /* bgm01.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = bgm01.mp3; sourceTree = "<group>"; };
+		476B02072C6AF1A8004C3246 /* bgm02.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = bgm02.mp3; sourceTree = "<group>"; };
+		476B02092C6AF1B5004C3246 /* shooting.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shooting.mp3; sourceTree = "<group>"; };
+		476B020B2C6AF1C1004C3246 /* thunder.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = thunder.mp3; sourceTree = "<group>"; };
+		476B020D2C6AF3C8004C3246 /* RainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RainViewController.swift; sourceTree = "<group>"; };
+		476B02112C6AFF5F004C3246 /* zombie.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zombie.mp3; sourceTree = "<group>"; };
+		476B02132C6B0DCB004C3246 /* MonsterBlood-VGKYz.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MonsterBlood-VGKYz.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,9 +70,16 @@
 		476B01EE2C6AE2C2004C3246 /* ViewDidLoad */ = {
 			isa = PBXGroup;
 			children = (
+				476B02132C6B0DCB004C3246 /* MonsterBlood-VGKYz.ttf */,
+				476B02052C6AF192004C3246 /* bgm01.mp3 */,
+				476B02072C6AF1A8004C3246 /* bgm02.mp3 */,
+				476B02092C6AF1B5004C3246 /* shooting.mp3 */,
+				476B020B2C6AF1C1004C3246 /* thunder.mp3 */,
+				476B02112C6AFF5F004C3246 /* zombie.mp3 */,
 				476B01EF2C6AE2C2004C3246 /* AppDelegate.swift */,
 				476B01F12C6AE2C2004C3246 /* SceneDelegate.swift */,
-				476B01F32C6AE2C2004C3246 /* ViewController.swift */,
+				476B02032C6AE4D8004C3246 /* MickeyViewController.swift */,
+				476B020D2C6AF3C8004C3246 /* RainViewController.swift */,
 				476B01F52C6AE2C2004C3246 /* Main.storyboard */,
 				476B01F82C6AE2C3004C3246 /* Assets.xcassets */,
 				476B01FA2C6AE2C3004C3246 /* LaunchScreen.storyboard */,
@@ -126,8 +147,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				476B01F92C6AE2C3004C3246 /* Assets.xcassets in Resources */,
+				476B020C2C6AF1C1004C3246 /* thunder.mp3 in Resources */,
 				476B01FC2C6AE2C3004C3246 /* Base in Resources */,
+				476B02062C6AF192004C3246 /* bgm01.mp3 in Resources */,
 				476B01F72C6AE2C2004C3246 /* Base in Resources */,
+				476B02082C6AF1A8004C3246 /* bgm02.mp3 in Resources */,
+				476B02122C6AFF5F004C3246 /* zombie.mp3 in Resources */,
+				476B02142C6B0DCB004C3246 /* MonsterBlood-VGKYz.ttf in Resources */,
+				476B020A2C6AF1B5004C3246 /* shooting.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,8 +165,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				476B01F42C6AE2C2004C3246 /* ViewController.swift in Sources */,
+				476B020E2C6AF3C8004C3246 /* RainViewController.swift in Sources */,
 				476B01F02C6AE2C2004C3246 /* AppDelegate.swift in Sources */,
+				476B02042C6AE4D8004C3246 /* MickeyViewController.swift in Sources */,
 				476B01F22C6AE2C2004C3246 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -294,6 +322,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ViewDidLoad/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -321,6 +350,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ViewDidLoad/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
